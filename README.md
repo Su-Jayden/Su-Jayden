@@ -1,17 +1,26 @@
-### Hi there 👋
+## 👋 Hi, I'm Elite
 
-<!--
-**unosul/unosul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 University Student | Software Engineering  
+- 🌱 Goal: To become a professional software engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### I am from Fujian, China. I majored in software technology. My major is software testing.
+### 👨‍💻 About Me
+
+- I am a Software Engineering student focusing on **software testing and software development**  
+- I am especially interested in:
+  - Software Testing  
+  - Software Development  
+
+---
+
+### 🔧 Tech Stack (Learning)
+
+- **Languages**: C, Java, Python  
+- **Software Testing**:
+  - Unit Testing  
+  - Test Automation  
+  - API Testing  
+  - Performance Testing  
+  - Test Case Design  
+
