@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Elite
+## 👋 Hi, I'm Jayden
 
 - 🎓 University Student | Software Engineering  
 - 🌱 Goal: To become a professional software engineer  
