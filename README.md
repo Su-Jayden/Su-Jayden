@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jayden
 
-- 🎓 University Student | Software Engineering  
+- 🎓 Undergraduate Student | Software Engineering  
 - 🌱 Goal: To become a professional software engineer  
 
 ---
